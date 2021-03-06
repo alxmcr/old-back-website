@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "HeyAlexCodes",
+        "coverProject": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+        "purpose": "My personal website 😊",
+        "features": "Application has three sections: Speakers, Schedule, and Tickets",
+        "category": "Front-End",
+        "technologies": [
+            "HTML", "CSS", "JavaScript", "ReactJS", "NodeJS", "Netlify"
+        ],
+        "urlLiveDemo": "https://alex-frontend-dev.netlify.app/",
+        "urlGithubRepository": "https://github.com/alxmcr/alejandro-web",
+        "createdAt": "18/09/2020",
+        "updatedAt": "05/03/2021"
+    },
+    {
+        "id": 2,
+        "title": "Confy",
+        "coverProject": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
+        "purpose": "Application for a tech conference",
+        "features": "Application has three sections: Speakers, Schedule, and Tickets",
+        "category": "Front-End",
+        "technologies": [
+            "HTML", "CSS", "JavaScript", "ReactJS", "NodeJS", "Netlify"
+        ],
+        "urlLiveDemo": "https://confy-conference.netlify.app/",
+        "urlGithubRepository": "https://github.com/alxmcr/react-conference-schedule",
+        "createdAt": "13/09/2020",
+        "updatedAt": ""
+    },
+    {
+        "id": 3,
+        "title": "El Viajero",
+        "coverProject": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
+        "purpose": "Landing Page for tourism information",
+        "features": "Application has three sections: places, Register of Cities form, and Newsletter Subscription (only test)",
+        "category": "Front-End",
+        "technologies": [
+            "HTML", "CSS", "JavaScript", "Vercel"
+        ],
+        "urlLiveDemo": "https://el-viajero.vercel.app/",
+        "urlGithubRepository": "https://github.com/alxmcr/el-viajero",
+        "createdAt": "13/09/2020",
+        "updatedAt": ""
+    }
+]
