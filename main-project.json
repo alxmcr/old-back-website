@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "title": "HeyAlexCodes",
+    "coverProject": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "purpose": "My personal website 😊",
+    "features": "Application has three sections: Speakers, Schedule, and Tickets",
+    "category": "Front-End",
+    "technologies": [
+        "HTML", "CSS", "JavaScript", "ReactJS", "NodeJS", "Netlify"
+    ],
+    "urlLiveDemo": "https://alex-frontend-dev.netlify.app/",
+    "urlGithubRepository": "https://github.com/alxmcr/alejandro-web"
+}
