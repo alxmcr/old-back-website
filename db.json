@@ -91,5 +91,106 @@
             "🇪🇸 Spanish (Native)",
             "and 🇺🇸 English (Learning in progress 😉)"
         ]
-    }
+    },
+    "skills": [
+        {
+            "id": 1,
+            "title": "Front-End development",
+            "isBrand": false,
+            "category": "frontend",
+            "styleIcon": "fas",
+            "iconName": "fa-laptop-code",
+            "iconFullName": "fas fa-laptop-code"
+        },
+        {
+            "id": 2,
+            "title": "HTML 5",
+            "isBrand": true,
+            "category": "frontend",
+            "styleIcon": "fab",
+            "iconName": "fa-html5",
+            "iconFullName": "fab fa-html5"
+        },
+        {
+            "id": 3,
+            "title": "CSS 3",
+            "isBrand": true,
+            "category": "frontend",
+            "styleIcon": "fab",
+            "iconName": "fa-css3-alt",
+            "iconFullName": "fab fa-css3-alt"
+        },
+        {
+            "id": 4,
+            "title": "JavaScript",
+            "isBrand": true,
+            "category": "frontend",
+            "styleIcon": "fab",
+            "iconName": "fa-js-square",
+            "iconFullName": "fab fa-js-square"
+        },
+        {
+            "id": 5,
+            "title": "React",
+            "isBrand": true,
+            "category": "frontend",
+            "styleIcon": "fab",
+            "iconName": "fa-react",
+            "iconFullName": "fab fa-react"
+        },
+        {
+            "id": 6,
+            "title": "Vue",
+            "isBrand": true,
+            "category": "frontend",
+            "styleIcon": "fab",
+            "iconName": "fa-vuejs",
+            "iconFullName": "fab fa-vuejs"
+        },
+        {
+            "id": 7,
+            "title": "Prototyping",
+            "isBrand": false,
+            "category": "frontend",
+            "styleIcon": "fas",
+            "iconName": "fa-pencil-ruler",
+            "iconFullName": "fas fa-pencil-ruler"
+        },
+        {
+            "id": 8,
+            "title": "Responsive Design",
+            "isBrand": false,
+            "category": "frontend",
+            "styleIcon": "fas",
+            "iconName": "fa-ruler-combined",
+            "iconFullName": "fas fa-ruler-combined"
+        },
+        {
+            "id": 9,
+            "title": "Mobile First",
+            "isBrand": false,
+            "category": "frontend",
+            "styleIcon": "fas",
+            "iconName": "fa-mobile-alt",
+            "iconFullName": "fas fa-mobile-alt"
+        },
+        {
+            "id": 10,
+            "title": "Team Work",
+            "isBrand": false,
+            "category": "team",
+            "styleIcon": "fas",
+            "iconName": "fa-users",
+            "iconFullName": "fas fa-users"
+        },
+        {
+            "id": 11,
+            "title": "Agile Methods",
+            "isBrand": false,
+            "category": "team",
+            "styleIcon": "fas",
+            "iconName": "fa-rocket",
+            "iconFullName": "fas fa-rocket"
+        }
+    ]
 }
