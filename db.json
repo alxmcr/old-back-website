@@ -20,7 +20,7 @@
         "updatedAt":"05/03/2021",
         "main":true
     },
-    "projects":[
+    "secondaryProjects":[
         {
             "id":2,
             "title":"Confy",
