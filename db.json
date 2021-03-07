@@ -1,196 +1,231 @@
 {
-    "mainProject":{
-        "id":1,
-        "title":"HeyAlexCodes",
-        "coverProject":"https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
-        "purpose":"My personal website 😊",
-        "features":"Application has three sections: Speakers, Schedule, and Tickets",
-        "category":"Front-End",
-        "technologies":[
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "ReactJS",
-            "NodeJS",
-            "Netlify"
-        ],
-        "urlLiveDemo":"https://alex-frontend-dev.netlify.app/",
-        "urlGithubRepository":"https://github.com/alxmcr/alejandro-web",
-        "createdAt":"18/09/2020",
-        "updatedAt":"05/03/2021",
-        "main":true
-    },
-    "secondaryProjects":[
-        {
-            "id":2,
-            "title":"Confy",
-            "coverProject":"https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
-            "purpose":"Application for a tech conference",
-            "features":"Application has three sections: Speakers, Schedule, and Tickets",
-            "category":"Front-End",
-            "technologies":[
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "ReactJS",
-                "NodeJS",
-                "Netlify"
-            ],
-            "urlLiveDemo":"https://confy-conference.netlify.app/",
-            "urlGithubRepository":"https://github.com/alxmcr/react-conference-schedule",
-            "createdAt":"13/09/2020",
-            "updatedAt":"",
-            "main":false
-        },
-        {
-            "id":3,
-            "title":"El Viajero",
-            "coverProject":"https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
-            "purpose":"Landing Page for tourism information",
-            "features":"Application has three sections: places, Register of Cities form, and Newsletter Subscription (only test)",
-            "category":"Front-End",
-            "technologies":[
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Vercel"
-            ],
-            "urlLiveDemo":"https://el-viajero.vercel.app/",
-            "urlGithubRepository":"https://github.com/alxmcr/el-viajero",
-            "createdAt":"13/09/2020",
-            "updatedAt":"",
-            "main":false
-        }
+  "mainProject": {
+    "id": 1,
+    "title": "HeyAlexCodes",
+    "coverProject": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80",
+    "purpose": "My personal website 😊",
+    "features": "Application has three sections: Speakers, Schedule, and Tickets",
+    "category": "Front-End",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NodeJS",
+      "Netlify"
     ],
-    "personal":{
-        "name":"Alejandro",
-        "lastname":"Coca",
-        "photo":"",
-        "role":"Front-End Developer",
-        "city":"La Paz",
-        "country":"Bolivia 🇧🇴",
-        "likesToDo":[
-            "computer programming",
-            "team work",
-            "learning new things every day",
-            "build my personal projects",
-            "and find out tools or software to help me to do my things more organized, effective, and productive way"
-        ],
-        "whatAreYouDoing":[
-            "watching video tutorials",
-            "reading some blog articles",
-            "creating a little projects about all I've learned from courses or tutorials"
-        ],
-        "freeTime":[
-            "🎮 playing video games",
-            "📺 watching TV or YouTube videos",
-            "🎧 listening to music 🎶 (sometimes singing 🎤, but of course I need the lyrics 😄 or a karaoke)",
-            "surfing on the internet or 📖 reading some tech news"
-        ],
-        "languages":[
-            "🇪🇸 Spanish (Native)",
-            "and 🇺🇸 English (Learning in progress 😉)"
-        ]
+    "urlLiveDemo": "https://alex-frontend-dev.netlify.app/",
+    "urlGithubRepository": "https://github.com/alxmcr/alejandro-web",
+    "createdAt": "18/09/2020",
+    "updatedAt": "05/03/2021",
+    "main": true
+  },
+  "secondaryProjects": [
+    {
+      "id": 2,
+      "title": "Confy",
+      "coverProject": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
+      "purpose": "Application for a tech conference",
+      "features": "Application has three sections: Speakers, Schedule, and Tickets",
+      "category": "Front-End",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJS",
+        "NodeJS",
+        "Netlify"
+      ],
+      "urlLiveDemo": "https://confy-conference.netlify.app/",
+      "urlGithubRepository": "https://github.com/alxmcr/react-conference-schedule",
+      "createdAt": "13/09/2020",
+      "updatedAt": "",
+      "main": false
     },
-    "skills":[
+    {
+      "id": 3,
+      "title": "El Viajero",
+      "coverProject": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1357&q=80",
+      "purpose": "Landing Page for tourism information",
+      "features": "Application has three sections: places, Register of Cities form, and Newsletter Subscription (only test)",
+      "category": "Front-End",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vercel"
+      ],
+      "urlLiveDemo": "https://el-viajero.vercel.app/",
+      "urlGithubRepository": "https://github.com/alxmcr/el-viajero",
+      "createdAt": "13/09/2020",
+      "updatedAt": "",
+      "main": false
+    }
+  ],
+  "personal": {
+    "name": "Alejandro",
+    "lastname": "Coca",
+    "photo": "",
+    "role": "Front-End Developer",
+    "city": "La Paz",
+    "country": "Bolivia 🇧🇴",
+    "likesToDo": [
+      "computer programming",
+      "team work",
+      "learning new things every day",
+      "build my personal projects",
+      "and find out tools or software to help me to do my things more organized, effective, and productive way"
+    ],
+    "whatAreYouDoing": [
+      "watching video tutorials",
+      "reading some blog articles",
+      "creating a little projects about all I've learned from courses or tutorials"
+    ],
+    "freeTime": [
+      "🎮 playing video games",
+      "📺 watching TV or YouTube videos",
+      "🎧 listening to music 🎶 (sometimes singing 🎤, but of course I need the lyrics 😄 or a karaoke)",
+      "surfing on the internet or 📖 reading some tech news"
+    ],
+    "languages": [
+      "🇪🇸 Spanish (Native)",
+      "and 🇺🇸 English (Learning in progress 😉)"
+    ],
+    "contactList": [
         {
-            "id":1,
-            "title":"Front-End development",
-            "isBrand":false,
-            "category":"frontend",
-            "styleIcon":"fas",
-            "iconName":"fa-laptop-code",
-            "iconFullName":"fas fa-laptop-code"
+            "id": 1,
+            "title": "amcocarojas@gmail.com",
+            "link": "mailto:amcocarojas@gmail.com",
+            "category": "email",
+            "styleIcon": "fas",
+            "iconName": "fa-envelope-open-text",
+            "iconFullName": "fas fa-envelope-open-text",
+            "iconClassColor": "contact__link--gmail",
+            "active": true
         },
         {
-            "id":2,
-            "title":"HTML 5",
-            "isBrand":true,
-            "category":"frontend",
-            "styleIcon":"fab",
-            "iconName":"fa-html5",
-            "iconFullName":"fab fa-html5"
+            "id": 2,
+            "title": "alejandro-mauricio-coca-rojas",
+            "link": "https://www.linkedin.com/in/alejandro-mauricio-coca-rojas/?locale=en_US",
+            "category": "social network",
+            "styleIcon": "fab",
+            "iconName": "fa-linkedin",
+            "iconFullName": "fab fa-linkedin",
+            "iconClassColor": "contact__link--linkedin",
+            "active": false
         },
         {
-            "id":3,
-            "title":"CSS 3",
-            "isBrand":true,
-            "category":"frontend",
-            "styleIcon":"fab",
-            "iconName":"fa-css3-alt",
-            "iconFullName":"fab fa-css3-alt"
-        },
-        {
-            "id":4,
-            "title":"JavaScript",
-            "isBrand":true,
-            "category":"frontend",
-            "styleIcon":"fab",
-            "iconName":"fa-js-square",
-            "iconFullName":"fab fa-js-square"
-        },
-        {
-            "id":5,
-            "title":"React",
-            "isBrand":true,
-            "category":"frontend",
-            "styleIcon":"fab",
-            "iconName":"fa-react",
-            "iconFullName":"fab fa-react"
-        },
-        {
-            "id":6,
-            "title":"Vue",
-            "isBrand":true,
-            "category":"frontend",
-            "styleIcon":"fab",
-            "iconName":"fa-vuejs",
-            "iconFullName":"fab fa-vuejs"
-        },
-        {
-            "id":7,
-            "title":"Prototyping",
-            "isBrand":false,
-            "category":"frontend",
-            "styleIcon":"fas",
-            "iconName":"fa-pencil-ruler",
-            "iconFullName":"fas fa-pencil-ruler"
-        },
-        {
-            "id":8,
-            "title":"Responsive Design",
-            "isBrand":false,
-            "category":"frontend",
-            "styleIcon":"fas",
-            "iconName":"fa-ruler-combined",
-            "iconFullName":"fas fa-ruler-combined"
-        },
-        {
-            "id":9,
-            "title":"Mobile First",
-            "isBrand":false,
-            "category":"frontend",
-            "styleIcon":"fas",
-            "iconName":"fa-mobile-alt",
-            "iconFullName":"fas fa-mobile-alt"
-        },
-        {
-            "id":10,
-            "title":"Team Work",
-            "isBrand":false,
-            "category":"team",
-            "styleIcon":"fas",
-            "iconName":"fa-users",
-            "iconFullName":"fas fa-users"
-        },
-        {
-            "id":11,
-            "title":"Agile Methods",
-            "isBrand":false,
-            "category":"team",
-            "styleIcon":"fas",
-            "iconName":"fa-rocket",
-            "iconFullName":"fas fa-rocket"
+            "id": 3,
+            "title": "@HeyAlexCodes",
+            "link": "https://twitter.com/HeyAlexCodes",
+            "category": "social network",
+            "styleIcon": "fab",
+            "iconName": "fa-twitter",
+            "iconFullName": "fab fa-twitter",
+            "iconClassColor": "contact__link--twitter",
+            "active": false
         }
     ]
+  },
+  "skills": [
+    {
+      "id": 1,
+      "title": "Front-End development",
+      "isBrand": false,
+      "category": "frontend",
+      "styleIcon": "fas",
+      "iconName": "fa-laptop-code",
+      "iconFullName": "fas fa-laptop-code"
+    },
+    {
+      "id": 2,
+      "title": "HTML 5",
+      "isBrand": true,
+      "category": "frontend",
+      "styleIcon": "fab",
+      "iconName": "fa-html5",
+      "iconFullName": "fab fa-html5"
+    },
+    {
+      "id": 3,
+      "title": "CSS 3",
+      "isBrand": true,
+      "category": "frontend",
+      "styleIcon": "fab",
+      "iconName": "fa-css3-alt",
+      "iconFullName": "fab fa-css3-alt"
+    },
+    {
+      "id": 4,
+      "title": "JavaScript",
+      "isBrand": true,
+      "category": "frontend",
+      "styleIcon": "fab",
+      "iconName": "fa-js-square",
+      "iconFullName": "fab fa-js-square"
+    },
+    {
+      "id": 5,
+      "title": "React",
+      "isBrand": true,
+      "category": "frontend",
+      "styleIcon": "fab",
+      "iconName": "fa-react",
+      "iconFullName": "fab fa-react"
+    },
+    {
+      "id": 6,
+      "title": "Vue",
+      "isBrand": true,
+      "category": "frontend",
+      "styleIcon": "fab",
+      "iconName": "fa-vuejs",
+      "iconFullName": "fab fa-vuejs"
+    },
+    {
+      "id": 7,
+      "title": "Prototyping",
+      "isBrand": false,
+      "category": "frontend",
+      "styleIcon": "fas",
+      "iconName": "fa-pencil-ruler",
+      "iconFullName": "fas fa-pencil-ruler"
+    },
+    {
+      "id": 8,
+      "title": "Responsive Design",
+      "isBrand": false,
+      "category": "frontend",
+      "styleIcon": "fas",
+      "iconName": "fa-ruler-combined",
+      "iconFullName": "fas fa-ruler-combined"
+    },
+    {
+      "id": 9,
+      "title": "Mobile First",
+      "isBrand": false,
+      "category": "frontend",
+      "styleIcon": "fas",
+      "iconName": "fa-mobile-alt",
+      "iconFullName": "fas fa-mobile-alt"
+    },
+    {
+      "id": 10,
+      "title": "Team Work",
+      "isBrand": false,
+      "category": "team",
+      "styleIcon": "fas",
+      "iconName": "fa-users",
+      "iconFullName": "fas fa-users"
+    },
+    {
+      "id": 11,
+      "title": "Agile Methods",
+      "isBrand": false,
+      "category": "team",
+      "styleIcon": "fas",
+      "iconName": "fa-rocket",
+      "iconFullName": "fas fa-rocket"
+    }
+  ]
 }
