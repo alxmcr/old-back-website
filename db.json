@@ -153,6 +153,41 @@
         "languages":[
             "🇪🇸 Spanish (Native)",
             "and 🇺🇸 English (Learning in progress 😉)"
+        ],
+        "contactList":[
+            {
+                "id":1,
+                "title":"amcocarojas@gmail.com",
+                "link":"mailto:amcocarojas@gmail.com",
+                "category":"email",
+                "styleIcon":"fas",
+                "iconName":"fa-envelope-open-text",
+                "iconFullName":"fas fa-envelope-open-text",
+                "iconClassColor":"contact__link--gmail",
+                "active":true
+            },
+            {
+                "id":2,
+                "title":"alejandro-mauricio-coca-rojas",
+                "link":"https://www.linkedin.com/in/alejandro-mauricio-coca-rojas/?locale=en_US",
+                "category":"social network",
+                "styleIcon":"fab",
+                "iconName":"fa-linkedin",
+                "iconFullName":"fab fa-linkedin",
+                "iconClassColor":"contact__link--linkedin",
+                "active":false
+            },
+            {
+                "id":3,
+                "title":"@HeyAlexCodes",
+                "link":"https://twitter.com/HeyAlexCodes",
+                "category":"social network",
+                "styleIcon":"fab",
+                "iconName":"fa-twitter",
+                "iconFullName":"fab fa-twitter",
+                "iconClassColor":"contact__link--twitter",
+                "active":false
+            }
         ]
     },
     "skills":[
